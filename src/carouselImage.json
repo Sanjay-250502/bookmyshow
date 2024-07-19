@@ -1,0 +1,13 @@
+{
+    "images":[
+        {
+            "Image1":"/Assets/movie-poster-landscape-interstellar.jpg"
+          },
+          {
+            "Image2":"/Assets/movie-poster-landscape-avatar.jpg"
+          },
+          {
+            "Image3":"/Assets/movie-poster-landscape-thor.jpg"
+          }
+    ]
+}

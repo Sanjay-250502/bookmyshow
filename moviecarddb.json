@@ -1,0 +1,217 @@
+{
+  "recmovies": [
+    {
+      "image": "/Assets/Aranmanai-4 motion-post.png",
+      "title": "Aranmanai-4",
+      "cardtext": "2hr28m  Horror UA13+",
+      "language": "Tamil",
+      "id": "0a3a"
+    },
+    {
+      "image": "/Assets/Leo-motion-post.png",
+      "title": "Leo",
+      "cardtext": "2hr44m Action,Crime,Drama UA16+",
+      "language": "Tamil,Hindi",
+      "id": "bc4e"
+    },
+    {
+      "image": "/Assets/Vikram-Motion-post.png",
+      "title": "Vikram",
+      "cardtext": "2hr55m  Action,Drama UA16+",
+      "language": "Tamil,Hindi",
+      "id": "cb3a"
+    }
+  ],
+  "registerdata": [
+    {
+      "id": "44ba",
+      "fullname": "sanjay32",
+      "email": "sanjayramachandran254@gmail.com",
+      "password": "Saneva@123",
+      "cpassword": "Saneva@123"
+    },
+    {
+      "id": "33c5",
+      "fullname": "Jeyalekshmi",
+      "email": "jeyaram2002@gmail.com",
+      "password": "Sanjeya@123",
+      "cpassword": "Sanjeya@123"
+    },
+    {
+      "id": "3524",
+      "fullname": "preethi",
+      "email": "preethi123@123",
+      "password": "preethi",
+      "cpassword": "preethi"
+    },
+    {
+      "id": "ef61",
+      "fullname": "Ramachandran",
+      "email": "sanjayramachandran2002@gmail.com",
+      "password": "Sanram@123",
+      "cpassword": "Sanram@123"
+    },
+    {
+      "id": "27ca",
+      "fullname": "Indhuja",
+      "email": "Indhuja2000@gmail.com",
+      "password": "Indhuja@123",
+      "cpassword": "Indhuja@123"
+    },
+    {
+      "id": "9e2e",
+      "fullname": "SanjayRamJeya",
+      "email": "sanjayramjeya1977@gmail.com",
+      "password": "Sanjeya@123",
+      "cpassword": "Sanjeya@123"
+    },
+    {
+      "id": "6ad0",
+      "fullname": "sajin",
+      "email": "sajin2000@gmail.com",
+      "password": "Sajin@123",
+      "cpassword": "Sajin@123"
+    },
+    {
+      "id": "e1b1",
+      "fullname": "Rahul VR",
+      "email": "saivrrahulvr29@gmail.com",
+      "password": "123456",
+      "cpassword": "123456"
+    },
+    {
+      "id": "99f7",
+      "fullname": "Sanjay R J",
+      "email": "sanjayramachandran2002@gmail.com",
+      "password": "Sanjeya@123",
+      "cpassword": "Sanjeya@123"
+    },
+    {
+      "id": "3c84",
+      "fullname": "rahul",
+      "email": "rahul23@gmail.com",
+      "password": "rahul23",
+      "cpassword": "rahul23"
+    },
+    {
+      "id": "05ea",
+      "fullname": "indhuja",
+      "email": "indhuja23@gmail.com",
+      "password": "indhuja23",
+      "cpassword": "indhuja23"
+    },
+    {
+      "id": "8b34",
+      "fullname": "Praveen",
+      "email": "Praveen123@gmail.com",
+      "password": "Praveen123",
+      "cpassword": "Praveen123"
+    }
+  ],
+  "moviedetail": [
+    {
+      "title": "Aranmanai-4",
+      "image": "/Assets/Aranmanai-4 motion-post.png",
+      "cardtext": "2hr28m  Horror UA13+",
+      "language": "Tamil",
+      "id": "5b58"
+    },
+    {
+      "title": "Leo",
+      "image": "/Assets/Leo-motion-post.png",
+      "cardtext": "2hr44m Action,Crime,Drama UA16+",
+      "language": "Tamil,Hindi",
+      "id": "3789"
+    },
+    {
+      "title": "Vikram",
+      "image": "/Assets/Vikram-Motion-post.png",
+      "cardtext": "2hr55m  Action,Drama UA16+",
+      "language": "Tamil,Malayalam,Hindi",
+      "id": "8c39"
+    },
+    {
+      "title": "Family Star",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjU0N2FmNTItZmEyMC00NTNhLWFmYjAtMjc4YTc2M2E3YjIxXkEyXkFqcGdeQXVyMTMzNzMzOTY5._V1_FMjpg_UX1000_.jpg",
+      "cardtext": "2hr39m Romance UA13+",
+      "language": "Tamil,Kannada",
+      "id": "4439"
+    },
+    {
+      "title": "Sitha Ramam",
+      "image": "https://images.justwatch.com/poster/300704972/s718/sita-ramam.%7Bformat%7D",
+      "cardtext": "2hr43m Romance,Drama,Thriller U",
+      "language": "Tamil,Kannada,Telugu",
+      "id": "eea2"
+    },
+    {
+      "title": "Hi Nanna",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ3NmY5NDMtNDZmMC00MTkzLWJmYzktYzI2ZDg3YWE3OGM2XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_.jpg",
+      "cardtext": "2hr35m Romance,Drama U",
+      "language": "Tamil,Kannada",
+      "id": "5ebc"
+    }
+  ],
+  "movieclicked": [
+    {
+      "title": "Aranmanai-4",
+      "backgroundimage": "https://assets-in.bmscdn.com/discovery-catalog/events/et00393228-dsdnlccubh-landscape.jpg",
+      "cardimage": "/Assets/Aranmanai-4 motion-post.png",
+      "cardtext": "2hr28m  Horror UA13+",
+      "language": "Tamil",
+      "dimension": "2d",
+      "trailer": "https://youtu.be/Keck4iVUUdE?si=rXUpHJl8ine8v5TK",
+      "id": "e7b5"
+    },
+    {
+      "title": "Leo",
+      "backgroundimage": "https://bollywoodmascot.com/wp-content/uploads/Leo-Movie-Poster.jpeg",
+      "cardimage": "/Assets/Leo-motion-post.png",
+      "cardtext": "2hr44m Action,Crime,Drama UA16+",
+      "language": "Tamil,Hindi",
+      "dimension": "2d",
+      "trailer": "https://youtu.be/Po3jStA673E?si=IPDiy8grhPeA8Mgn",
+      "id": "815d"
+    },
+    {
+      "title": "Vikram",
+      "backgroundimage": "https://wallpapercave.com/wp/wp11157484.jpg",
+      "cardimage": "/Assets/Vikram-Motion-post.png",
+      "cardtext": "2hr55m  Action,Drama UA16+",
+      "language": "Tamil,Malayalam,Hindi",
+      "dimension": "2d",
+      "trailer": "https://youtu.be/OKBMCL-frPU?si=C2xbtyJBbXFhuncQ",
+      "id": "f57b"
+    },
+    {
+      "title": "Family Star",
+      "backgroundimage": "https://thetelugufilmnagar.com/wp-content/uploads/2023/10/Familystar-Featured.webp",
+      "cardimage": "https://m.media-amazon.com/images/M/MV5BYjU0N2FmNTItZmEyMC00NTNhLWFmYjAtMjc4YTc2M2E3YjIxXkEyXkFqcGdeQXVyMTMzNzMzOTY5._V1_FMjpg_UX1000_.jpg",
+      "cardtext": "2hr39m Romance UA13+",
+      "language": "Tamil,Kannada",
+      "dimension": "2d",
+      "trailer": "https://youtu.be/-JsXRt9f280?si=Zb15S_oxV3VY4Muf",
+      "id": "6c65"
+    },
+    {
+      "title": "Hi Nanna",
+      "backgroundimage": "https://i.ytimg.com/vi/FhI0Jx5rb80/maxresdefault.jpg",
+      "cardimage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/hi-nanna-et00364503-1701678655.jpg",
+      "cardtext": "2hr35m Romance,Drama U",
+      "language": "Tamil,Kannada,Malayalam",
+      "dimension": "2d",
+      "trailer": "https://youtu.be/70HhA_ZB8kw?si=9ynXxR9DStNxABw2",
+      "id": "f805"
+    },
+    {
+      "title": "Sitha Ramam",
+      "backgroundimage": "https://i.ytimg.com/vi/GcqXFL4W_Aw/maxresdefault.jpg",
+      "cardimage": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sita-ramam-et00329657-1663938878.jpg",
+      "cardtext": "2hr43m Romance,Drama,Thriller U",
+      "language": "Tamil,Kannada,Telugu",
+      "dimension": "2d",
+      "trailer": "https://youtu.be/QS2UPxj_Y9w?si=4jaJ_04ohISz3CJq",
+      "id": "573b"
+    }
+  ]
+}

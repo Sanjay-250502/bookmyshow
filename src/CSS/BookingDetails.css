@@ -1,0 +1,90 @@
+
+
+.booking-details-container {
+    background-color: #ebf1f6;
+    /* border: 1px solid #ced4da; */
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+    height: auto;
+  }
+  
+  .booking-details-header {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bolder;
+  }
+  
+  .movie-title {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .theatre-info {
+    margin-bottom: 15px;
+  }
+  
+  .theatre-info li {
+    list-style-type: none;
+    margin-bottom: 5px;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+  }
+  
+  .book-button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+ .show-time-list{
+    gap: 15px ;
+    padding: 10px;
+  } 
+  .show-time-list li button{
+    color: black;
+    background-color: rgb(31, 244, 56);
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: none;
+  }
+  .show-time-list li button:hover{
+    background-color: rgb(24, 184, 43);
+    cursor: pointer;
+    border-radius: 5px;
+    border: 2px solid black;
+  }
+  .card-booking-text{
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 20px;
+  }
+  .theatre-list{
+    font-weight: bolder;
+    font-size: 1rem;
+  }
+  .theatre-list span{
+    color: rgb(24, 176, 184);
+  }
+
+  .date-picker-container {
+    margin-top: 20px;
+  }
+  
+  .date-picker {
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  

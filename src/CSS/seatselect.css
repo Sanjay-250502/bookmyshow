@@ -1,0 +1,100 @@
+.par{
+    margin-left: 20px;
+}
+
+.select-seats-title {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  .select-seats-title span{
+    color: #23e5bb;
+    font-weight: 900;
+  }
+  .show-time {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  .show-time span{
+    color: #23e5bb;
+    font-weight: 900;
+  }
+  .confirm-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .confirm-button:hover {
+    background-color: #0056b3;
+  }
+  
+
+  .seat-selection-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding: 20px;
+  }
+  
+  .seat-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .row-letter {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  .seat-cell {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+    font-size: 0.8rem;
+    cursor: pointer;
+  }
+  
+  .seat-cell.selected {
+    background-color: #4CAF50;
+  }
+  
+  @media (max-width: 768px) {
+    .seat-cell {
+      width: 55px;
+      height: 35px;
+      font-size: 1rem;
+      background-color: aliceblue;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .seat-cell {
+      width: 30px;
+      height: 30px;
+      font-size: 0.6rem;
+      margin-top: 30px;
+    }
+  }
+
+  @media (max-width: 320px) {
+    .seat-cell {
+      width: 20px;
+      height: 20px;
+      font-size: 0.4rem;
+      margin-top: 30px;
+    }
+  }
+  

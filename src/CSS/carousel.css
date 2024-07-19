@@ -1,0 +1,33 @@
+.slide{
+  height: 400px;
+  background-color: black;
+}
+.slide img{
+  height: 400px;
+  width: 100%;
+}
+  .slider{
+    position: relative;
+  }
+  .left-arrow,
+  .right-arrow{
+    /* z-index:2; */
+    position: absolute;
+    top: 40%;
+    cursor: pointer;
+    color: rgb(33, 201, 106);
+    font-size: 40px;
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    /* border-radius: 40%; */
+  }
+  .left-arrow{
+    left: 1;
+  }
+  .right-arrow{
+    right: 0;
+  }
+  .left-arrow:hover,
+  .right-arrow:hover{
+    /* background-color: rgb(247, 242, 242); */
+    color: red;
+  }

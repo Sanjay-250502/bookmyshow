@@ -1,0 +1,22 @@
+.header-title-js {
+  font-size: 1.5rem;
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  height: 50px;
+  width: 100%;
+  font-size: 30px;
+}
+
+.link-tag {
+  text-decoration: none;
+  color: rgb(12, 12, 12);
+  text-shadow: 2px 2px 5px red;;
+}
+
+.link-tag:hover{
+  color: rgb(243, 64, 133);
+  text-decoration: none;
+}

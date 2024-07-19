@@ -1,0 +1,146 @@
+.movieCards {
+  box-sizing: border-box;
+}
+.main-bg-img {
+  width: 100%;
+  height: 500px;
+  filter: blur(3px);
+}
+.cardimage-card {
+  height: 400px;
+  width: 300px;
+}
+.trailer-button {
+  padding: 5px;
+  border: 1px solid black;
+  background-color: transparent;
+  border-radius: 10px;
+  position: absolute;
+  left: 13%;
+  color: white;
+}
+.total-card {
+  position: relative;
+}
+.card-body-image {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 15%;
+  left: 2%;
+}
+.move-tit {
+  margin-bottom: 20px;
+  font-weight: bolder;
+}
+.button-main-par {
+  display: flex;
+  gap: 10px !important;
+}
+.d-but {
+  padding: 5px;
+  border: none;
+  background-color: rgb(188, 182, 182);
+  width: auto;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  font-weight: 800;
+}
+.lang-but {
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(188, 182, 182);
+  width: auto;
+  margin-bottom: 20px;
+  font-weight: 800;
+}
+button a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.5rem;
+}
+.play-icon{
+    font-size: 18px;
+}
+.trailer-button a:hover {
+  text-decoration: none;
+  color: aliceblue;
+}
+.trailer-button:hover {
+    background-color: rgb(42, 39, 39);
+}
+.card-text{
+   font-weight: 800;
+} 
+
+@media (max-width: 475px) {
+  .main-bg-img {
+    height: 300px;
+    filter: blur(2px);
+  }
+
+  .cardimage-card {
+    display: none;
+  }
+
+  .card-body-image {
+    flex-direction: column;
+    align-items: center;
+    position: static; 
+    gap: 10px;
+  }
+
+  .trailer-button {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .button-main-par {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .move-tit {
+    font-size: 1.2rem;
+  }
+
+  .card-text {
+    font-size: 1rem;
+  }
+
+  .book-btn {
+    width: 100%; /* Full width button on smaller screens */
+  }
+}
+
+@media (max-width: 320px) {
+  .main-bg-img {
+    height: 200px;
+    filter: blur(2px);
+  }
+
+  .cardimage-card {
+   display: none;
+  }
+  .trailer-button {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .move-tit {
+    font-size: 1rem;
+  }
+
+  .card-text {
+    font-size: 0.9rem;
+  }
+
+  .lang-but, .d-but {
+    font-size: 0.8rem;
+    padding: 3px;
+  }
+}
